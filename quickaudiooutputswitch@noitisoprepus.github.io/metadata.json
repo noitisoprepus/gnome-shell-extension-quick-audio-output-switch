@@ -1,0 +1,8 @@
+{
+  "name": "Quick Audio Output Switch",
+  "description": "Quickly switch between two audio outputs from the top bar",
+  "uuid": "quickaudiooutputswitch@noitisoprepus.github.io",
+  "shell-version": [
+    "49"
+  ]
+}
