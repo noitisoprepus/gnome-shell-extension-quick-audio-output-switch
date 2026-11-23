@@ -2,7 +2,7 @@
 
 A GNOME Shell extension to quickly switch between audio output devices from the top bar
 
-![Quick audio output switch demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg2MzBxdXphNDF1Ymhzc3h3bnY2b3Z3YmV0MGI0Z2Z2bnQyc3FqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FJ7biK38Glxs2OHUCu/giphy.gif)
+<img width="1920" height="1080" alt="Quick audio output switch demo" src="https://github.com/user-attachments/assets/4f7a818b-7cfc-4524-a77c-f173257dd863" />
 
 ## Requirements
 
@@ -38,7 +38,11 @@ A GNOME Shell extension to quickly switch between audio output devices from the 
 
 Open the extension's preferences in the Extensions app. Choose the two audio outputs to switch between, and set whether to show the volume OSD.
 
+<img width="345" height="313" alt="image" src="https://github.com/user-attachments/assets/68840776-b835-4c6a-8728-fb57aca30d51" />
+
 Click the speaker in the top bar to switch. If another output is currently active, the first click selects your first configured output.
+
+<img width="1920" height="100" alt="image" src="https://github.com/user-attachments/assets/00cf5504-c4d5-4e78-bc62-ec880785cc2e" />
 
 Both selected outputs must be available to switch. Reopen Preferences after connecting a new device to refresh the list. Two ports exposed through the same playback sink appear as one output.
 
