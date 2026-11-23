@@ -2,7 +2,9 @@
   "name": "Quick Audio Output Switch",
   "description": "Quickly switch between two audio outputs from the top bar",
   "uuid": "quick-audio-output-switch@noitisoprepus.github.io",
+  "settings-schema": "org.gnome.shell.extensions.quick-audio-output-switch",
   "shell-version": [
-    "49"
-  ]
+    "49", "50", "51"
+  ],
+  "version": 2
 }
