@@ -2,6 +2,8 @@
 
 A GNOME Shell extension to quickly switch between audio output devices from the top bar
 
+![Quick audio output switch demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg2MzBxdXphNDF1Ymhzc3h3bnY2b3Z3YmV0MGI0Z2Z2bnQyc3FqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FJ7biK38Glxs2OHUCu/giphy.gif)
+
 ## Requirements
 
 - GNOME Shell 49, 50, or 51
