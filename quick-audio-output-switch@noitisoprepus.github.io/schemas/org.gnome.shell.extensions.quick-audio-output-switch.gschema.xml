@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.quick-audio-output-switch" path="/org/gnome/shell/extensions/quick-audio-output-switch/">
+    <key name="show-volume-osd" type="b">
+      <default>true</default>
+      <summary>Show the volume on-screen display when switching audio output devices.</summary>
+    </key>
+    <key name="device-a" type="s">
+      <default>''</default>
+      <summary>First audio output device</summary>
+      <description>Symbolic playback sink name of the first audio output device, empty when unset.</description>
+    </key>
+    <key name="device-b" type="s">
+      <default>''</default>
+      <summary>Second audio output device</summary>
+      <description>Symbolic playback sink name of the second audio output device, empty when unset.</description>
+    </key>
+  </schema>
+</schemalist>
